@@ -1,0 +1,6 @@
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\bin\Debug\task4.exe.config
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\bin\Debug\task4.exe
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\bin\Debug\task4.pdb
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\obj\Debug\task4.csprojResolveAssemblyReference.cache
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\obj\Debug\task4.exe
+c:\users\marx\documents\visual studio 2015\Projects\task4\task4\obj\Debug\task4.pdb

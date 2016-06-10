@@ -1,0 +1,57 @@
+                /*тест*/
+                long position = 1;
+
+                file.Position = position;
+
+                file.Read(bufThread, 0, (int)file.Length - (int)file.Position);
+
+                file.Position = position;
+
+                file.WriteByte(1);
+
+                position++;
+
+                file.Position = position;
+
+                file.Write(bufThread, 0, bufThread.Length);
+                /*конец*/
+				
+				
+				    static void insertZero(int K)
+        {
+            FileStream file;
+
+            try
+            {
+                file = new FileStream(@"1", FileMode.Open, FileAccess.ReadWrite);
+
+                byte[] bufThread;
+
+                for (long position = 1; position <= file.Length;)
+                {
+                    file.Position = position;
+
+                    bufThread = new byte[file.Length - file.Position];
+
+                    file.Read(bufThread, 0, (int)file.Length - (int)file.Position);
+
+                    file.Position = position;
+
+                    file.WriteByte(0);
+
+                    position++;
+
+                    file.Position = position;
+
+                    file.Write(bufThread, 0, bufThread.Length);
+
+                    file.Position = position++;
+                }
+
+                file.Close();
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("Произошла ошибка при работе с файлом!");
+            }
+        }

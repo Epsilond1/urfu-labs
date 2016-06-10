@@ -1,0 +1,6 @@
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\bin\Debug\task_1.exe.config
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\bin\Debug\task_1.exe
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\bin\Debug\task_1.pdb
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\obj\Debug\task_1.csprojResolveAssemblyReference.cache
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\obj\Debug\task_1.exe
+c:\users\marx\documents\visual studio 2015\Projects\task_1\task_1\obj\Debug\task_1.pdb

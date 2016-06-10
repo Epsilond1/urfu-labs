@@ -1,0 +1,18 @@
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\bin\Debug\class_list_template.exe.config
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\bin\Debug\class_list_template.exe
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\bin\Debug\class_list_template.pdb
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.csprojResolveAssemblyReference.cache
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.Form1.resources
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.Properties.Resources.resources
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.csproj.GenerateResource.Cache
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.exe
+c:\users\marx\documents\visual studio 2015\Projects\class_list_template\class_list_template\obj\Debug\class_list_template.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\bin\Debug\class_list_template.exe.config
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.exe
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\bin\Debug\class_list_template.exe
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\bin\Debug\class_list_template.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.csprojResolveAssemblyReference.cache
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.Form1.resources
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.Properties.Resources.resources
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_list_template\class_list_template\obj\Debug\class_list_template.csproj.GenerateResource.Cache
