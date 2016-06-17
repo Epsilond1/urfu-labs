@@ -1,0 +1,12 @@
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\bin\Debug\task4-gui.exe.config
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\bin\Debug\task4-gui.exe
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\bin\Debug\task4-gui.pdb
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4-gui.csprojResolveAssemblyReference.cache
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4_gui.Form1.resources
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4_gui.Properties.Resources.resources
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4-gui.csproj.GenerateResource.Cache
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4-gui.exe
+c:\users\marx\documents\visual studio 2015\Projects\task4-gui\task4-gui\obj\Debug\task4-gui.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\task4-gui\task4-gui\bin\Debug\task4-gui.exe.config
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\task4-gui\task4-gui\obj\Debug\task4-gui.exe
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\task4-gui\task4-gui\obj\Debug\task4-gui.pdb
