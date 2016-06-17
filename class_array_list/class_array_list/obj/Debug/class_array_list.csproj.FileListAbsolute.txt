@@ -16,3 +16,12 @@ E:\YandexDisk\class_array_list\class_array_list\obj\Debug\class_array_list.cspro
 E:\YandexDisk\class_array_list\class_array_list\obj\Debug\class_array_list.Form1.resources
 E:\YandexDisk\class_array_list\class_array_list\obj\Debug\class_array_list.Properties.Resources.resources
 E:\YandexDisk\class_array_list\class_array_list\obj\Debug\class_array_list.csproj.GenerateResource.Cache
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\bin\Debug\class_array_list.exe.config
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.exe
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\bin\Debug\class_array_list.exe
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\bin\Debug\class_array_list.pdb
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.csprojResolveAssemblyReference.cache
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.Form1.resources
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.Properties.Resources.resources
+E:\YandexDisk\УрФУ\Сессия 2\Программирование\class_array_list\class_array_list\obj\Debug\class_array_list.csproj.GenerateResource.Cache

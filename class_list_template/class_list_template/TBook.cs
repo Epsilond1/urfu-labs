@@ -12,7 +12,6 @@ namespace class_list_template
         public static List<TBook> Books = new List<TBook>();
 
         myIComparer comparator = new myIComparer();
-        //compareYears comparator2 = new compareYears(); Решилось лямбдой
 
         public TBook() { }
 
@@ -23,12 +22,11 @@ namespace class_list_template
             Year = kYear;
         }
 
-        public List<string> getBooks(bool typeSort)
+        public List<string> getBooks(int typeSort)
         {
-            if (typeSort)
-                Books.Sort(comparator);
-            else
-                Books = Books.OrderBy(book => book.Year).ToList<TBook>();
+            if (typeSort == 0) Books.Sort(comparator);
+            else if (typeSort == 1) Books = Books.OrderBy(book => book.Year).ToList<TBook>();
+            else if (typeSort == 2) Books = Books.OrderBy(book => book.Author).ToList<TBook>();
 
             List<string> books = new List<string>();
 

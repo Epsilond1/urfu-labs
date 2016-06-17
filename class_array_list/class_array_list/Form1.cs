@@ -19,7 +19,7 @@ namespace class_array_list
             {
                 if (!manageList.ContainsDiscipline(textBox1.Text))
                 {
-                    manageList.addList(textBox1.Text);
+                    manageList.addList(textBox1.Text.Trim());
                     textBox1.Clear();
                 }
                 else

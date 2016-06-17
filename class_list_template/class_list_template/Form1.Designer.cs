@@ -39,6 +39,7 @@
             this.radioName = new System.Windows.Forms.RadioButton();
             this.BAdd = new System.Windows.Forms.Button();
             this.BDelete = new System.Windows.Forms.Button();
+            this.radioAuthor = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -93,11 +94,12 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.radioAuthor);
             this.groupBox1.Controls.Add(this.radioYear);
             this.groupBox1.Controls.Add(this.radioName);
             this.groupBox1.Location = new System.Drawing.Point(447, 127);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(150, 70);
+            this.groupBox1.Size = new System.Drawing.Size(150, 82);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Сортировка";
@@ -116,6 +118,7 @@
             // radioName
             // 
             this.radioName.AutoSize = true;
+            this.radioName.Checked = true;
             this.radioName.Location = new System.Drawing.Point(6, 19);
             this.radioName.Name = "radioName";
             this.radioName.Size = new System.Drawing.Size(101, 17);
@@ -143,6 +146,17 @@
             this.BDelete.Text = "Удалить";
             this.BDelete.UseVisualStyleBackColor = true;
             this.BDelete.Click += new System.EventHandler(this.BDelete_Click);
+            // 
+            // radioAuthor
+            // 
+            this.radioAuthor.AutoSize = true;
+            this.radioAuthor.Location = new System.Drawing.Point(6, 65);
+            this.radioAuthor.Name = "radioAuthor";
+            this.radioAuthor.Size = new System.Drawing.Size(55, 17);
+            this.radioAuthor.TabIndex = 2;
+            this.radioAuthor.TabStop = true;
+            this.radioAuthor.Text = "Автор";
+            this.radioAuthor.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -181,6 +195,7 @@
         private System.Windows.Forms.RadioButton radioName;
         private System.Windows.Forms.Button BAdd;
         private System.Windows.Forms.Button BDelete;
+        private System.Windows.Forms.RadioButton radioAuthor;
     }
 }
 

@@ -58,7 +58,12 @@ namespace class_list_template
             manage = new TBook();
             bookList.Items.Clear();
 
-            bool typeSort = radioName.Checked;
+            int typeSort = -1;
+
+            if (radioName.Checked) typeSort = 0;
+            else if (radioYear.Checked) typeSort = 1;
+            else if (radioAuthor.Checked) typeSort = 2;
+
             List<string> books = manage.getBooks(typeSort);
 
             foreach (var book in books)
