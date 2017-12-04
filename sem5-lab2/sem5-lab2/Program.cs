@@ -41,7 +41,7 @@ namespace sem5_lab2
             print(2, count_top_news, top_news, _doc, "Print Achtung News");
 
             int count_general_news = _doc.DocumentNode.SelectNodes("//*[@id='root']/section[2]/div/div/div[1]/section[1]/div[2]/div")[0].ChildNodes.Count;
-            print(1, 6, general_news, _doc, "Print Top Daily News");
+            print(1, count_general_news, general_news, _doc, "Print Top Daily News");
         }
     }
 }
