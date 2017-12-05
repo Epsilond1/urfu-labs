@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using HtmlAgilityPack;
 
 namespace sem5_lab2
@@ -17,7 +13,6 @@ namespace sem5_lab2
         {
             return str.Replace("&nbsp;", " ");
         }
-
 
         static void print(int start, int count, string pattern, HtmlDocument _doc, string msg)
         {
